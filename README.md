@@ -24,19 +24,19 @@ This portfolio serves as a central place to present my work, highlight my skills
 ## Screenshots
 
 ### Homepage
-![Homepage](./screenshots/homepage.png)
+<img src="./screenshots/homepage.png" alt="Homepage" width="700">
 
 ### Projects Section
-![Projects Section](./screenshots/project-section.png)
+<img src="./screenshots/project-section.png" alt="Project Section" width="700">
 
 ### Article Section
-![Article Section](./screenshots/article-section.png)
+<img src="./screenshots/article-section.png" alt="Article Section" width="700">
 
 ### Firebase Comment Section
-![Firebase Comment Section](./screenshots/comment-section.png)
+<img src="./screenshots/comment-section.png" alt="Comment Section" width="700">
 
 ### Mobile View
-![Mobile View](./screenshots/mobile-view.png)
+<img src="./screenshots/mobile-view.png" alt="Homepage" width="250">
 
 ## Live Demo
 [View Portfolio](https://ranshaamerya.raysoftware.in/)
