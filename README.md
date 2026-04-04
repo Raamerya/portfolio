@@ -21,6 +21,23 @@ This portfolio serves as a central place to present my work, highlight my skills
 - Clean user interface
 - Contact information
 
+## Screenshots
+
+### Homepage
+![Homepage](./screenshots/homepage.png)
+
+### Projects Section
+![Projects Section](./screenshots/project-section.png)
+
+### Article Section
+![Article Section](./screenshots/article-section.png)
+
+### Firebase Comment Section
+![Firebase Comment Section](./screenshots/comment-section.png)
+
+### Mobile View
+![Mobile View](./screenshots/mobile-view.png)
+
 ## Live Demo
 [View Portfolio](https://ranshaamerya.raysoftware.in/)
 
